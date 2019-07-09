@@ -1,0 +1,11 @@
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/service/UserServiceImpl.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/service/SecurityServiceImpl.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/model/User.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/repository/RoleRepository.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/model/Role.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/web/UserController.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/validator/UserValidator.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/service/UserService.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/service/UserDetailsServiceImpl.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/repository/UserRepository.java
+/home/nabreezy/Documents/ideaProjects/registration-login-spring-xml-maven-jsp-mysql1.1/src/main/java/com/account/service/SecurityService.java
