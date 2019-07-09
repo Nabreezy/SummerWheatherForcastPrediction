@@ -1,0 +1,13 @@
+com\nabreezy\auth\WebSecurityConfig.class
+com\nabreezy\auth\service\SecurityServiceImpl.class
+com\nabreezy\auth\WebApplication.class
+com\nabreezy\auth\service\UserDetailsServiceImpl.class
+com\nabreezy\auth\model\User.class
+com\nabreezy\auth\repository\UserRepository.class
+com\nabreezy\auth\service\UserService.class
+com\nabreezy\auth\service\SecurityService.class
+com\nabreezy\auth\service\UserServiceImpl.class
+com\nabreezy\auth\repository\RoleRepository.class
+com\nabreezy\auth\validator\UserValidator.class
+com\nabreezy\auth\model\Role.class
+com\nabreezy\auth\web\UserController.class
